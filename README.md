@@ -42,11 +42,6 @@ The assignment provides practice in choosing efficient data structures and algor
   - `-g <num_guesses>` → set number of guesses  
   - `-v` → verbose mode  
 
-### Submission
-- Submit via Gradescope (linked to GitHub repository).  
-- One submission per group (up to 3 students).  
-- Late penalty: **20% per day** (unless slip days are applied).  
-
 ### Acknowledgments
 This assignment is adapted from Keith Schwarz’s original Evil Hangman project,  
 modified by Matthew Giordano and Calvin Lin.
